@@ -1,5 +1,5 @@
 # Capturing Label Characteristics in VAEs - Reimplementation
-This repository contains the reimplementation of the paper "Capturing Label Characteristics in VAEs" by Tom Joy et al., presented at the International Conference on Learning Representations (ICLR) 2021. The project was carried out collaboratively by [Your Name] and two classmates, [Classmate 1] and [Classmate 2], as part of our academic studies.  
+This repository contains the reimplementation of the paper "Capturing Label Characteristics in VAEs" by Tom Joy et al., presented at the International Conference on Learning Representations (ICLR) 2021. The project was carried out collaboratively by me (Mohamed Benyahia) and two classmates, Tancrede Martinez and Hadrien Levechin, as part of our academic studies in the MVA master at ENS Paris Saclay.
 
       @inproceedings{
         joy2021capturing,
